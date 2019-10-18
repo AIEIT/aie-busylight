@@ -1,0 +1,15 @@
+{
+  "name": "aie-busylight",
+  "version": "0.0.1",
+  "description": "Control the BusyLight for the AIE NOC Statusboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Pasqualone <michael@mpasqualone.com>",
+  "license": "ISC",
+  "dependencies": {
+    "busylight": "^0.4.0",
+    "express": "^4.17.1"
+  }
+}
